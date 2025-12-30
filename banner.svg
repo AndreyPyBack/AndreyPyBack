@@ -1,33 +1,42 @@
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0f2027">
-        <animate attributeName="stop-color" values="#0f2027;#203a43;#2c5364;#0f2027" dur="6s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#7f5af0">
+        <animate attributeName="stop-color"
+                 values="#7f5af0;#2cb67d;#7f5af0"
+                 dur="6s"
+                 repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#2c5364">
-        <animate attributeName="stop-color" values="#2c5364;#0f2027;#203a43;#2c5364" dur="6s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#2cb67d">
+        <animate attributeName="stop-color"
+                 values="#2cb67d;#7f5af0;#2cb67d"
+                 dur="6s"
+                 repeatCount="indefinite"/>
       </stop>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="200" fill="url(#grad)" />
+  <rect width="100%" height="100%" fill="#0f0f17"/>
 
-  <text x="50%" y="85" text-anchor="middle"
-        font-size="42" fill="#ffffff"
+  <text x="50%" y="42%" text-anchor="middle"
+        font-size="52"
+        font-family="Segoe UI, Inter, system-ui"
+        fill="url(#grad)"
+        font-weight="700">
+    ANDREY PY BACK
+  </text>
+
+  <text x="50%" y="62%" text-anchor="middle"
+        font-size="22"
         font-family="Fira Code, monospace"
-        font-weight="bold">
-    AndreyPyBack
+        fill="#a9b1d6">
+    Platform Engineer • Go • Cloud • Kubernetes • AI
   </text>
 
-  <text x="50%" y="125" text-anchor="middle"
-        font-size="22" fill="#cce7ff"
-        font-family="Fira Code, monospace">
-    Founder • Go / Backend • Cloud • Kubernetes • AI
-  </text>
-
-  <text x="50%" y="155" text-anchor="middle"
-        font-size="16" fill="#9fd3ff"
-        font-family="Fira Code, monospace">
-    Limventis — building scalable AI & automation systems
+  <text x="50%" y="78%" text-anchor="middle"
+        font-size="18"
+        font-family="Fira Code, monospace"
+        fill="#6f7bb6">
+    LIMVENTIS ECOSYSTEM
   </text>
 </svg>
