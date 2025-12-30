@@ -10,30 +10,30 @@
 
 ## 🧠 Who I Am
 
-Founder & system architect building **production-grade platforms**  
+Founder & platform engineer building **production-grade systems**,  
 focused on **Go, cloud-native infrastructure, AI and automation**.
 
 🏢 **Limventis** — technology & AI holding  
 🌍 EU • Turkey • CIS  
-🎯 Products over hype. Systems over chaos.
+🎯 *Products over hype. Systems over chaos.*
 
 ---
 
 ## 🧩 Limventis Ecosystem
 
 ### 🚀 Core Directions
-- **AI & Automation Platforms**
-- **Cloud-native SaaS**
-- **Observability & Monitoring**
-- **Computer Vision & Agro AI**
-- **E-commerce AI tools**
+- AI & Automation Platforms  
+- Cloud-native SaaS  
+- Observability & Monitoring  
+- Computer Vision & Agro AI  
+- E-commerce AI tools  
 
 ### 🏗 What I Deliver
-- Architecture & system design  
-- High-load Go services  
+- System & solution architecture  
+- High-load Go backend services  
 - Kubernetes infrastructure  
-- Prometheus + Grafana stacks  
-- AI inference pipelines  
+- Prometheus + Grafana observability stacks  
+- AI inference & data pipelines  
 
 ---
 
@@ -61,9 +61,23 @@ focused on **Go, cloud-native infrastructure, AI and automation**.
 
 ## 🧠 Engineering Principles
 
-```text
 • Cloud-native first
 • Observability is mandatory
 • Automation over manual work
 • Scale by design
 • Production > MVP
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AndreyPyBack&show_icons=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyPyBack&layout=compact&theme=dark" /> </p>
+🌐 Limventis
+🌍 Website: https://limventis.com
+💼 Partnerships • Architecture • AI Systems
+
+📌 Featured Repositories (Pinned)
+limventis-infra — Kubernetes, monitoring, infrastructure as code
+
+go-microservice-template — production-ready Go service template
+
+observability-stack — Prometheus + Grafana stack
+
+ai-platform-core — AI & automation core services
+
