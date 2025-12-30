@@ -72,12 +72,4 @@ focused on **Go, cloud-native infrastructure, AI and automation**.
 🌍 Website: https://limventis.com
 💼 Partnerships • Architecture • AI Systems
 
-📌 Featured Repositories (Pinned)
-limventis-infra — Kubernetes, monitoring, infrastructure as code
-
-go-microservice-template — production-ready Go service template
-
-observability-stack — Prometheus + Grafana stack
-
-ai-platform-core — AI & automation core services
 
