@@ -1,32 +1,49 @@
-<h1 align="center">Hi 👋, I'm Andrei</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Founder+%26+Platform+Engineer;Go+%7C+Cloud+%7C+Kubernetes+%7C+AI;Backend+%7C+Observability+%7C+Automation;Building+production-grade+systems" />
+  <img src="banner.svg" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Founder+%26+Platform+Engineer;Go+%7C+Cloud+%7C+Kubernetes+%7C+AI;Observability+%7C+Automation+%7C+SaaS;Limventis+Ecosystem" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
 
-- 🏗 Founder & System Architect  
-- ⚙️ Platform / Backend / Cloud Engineer  
-- 🚀 Building scalable SaaS, AI & automation systems  
-- 🌍 EU • Turkey • CIS  
-- 🎯 Focus: reliability, observability, production  
+Founder & system architect building **production-grade platforms**  
+focused on **Go, cloud-native infrastructure, AI and automation**.
+
+🏢 **Limventis** — technology & AI holding  
+🌍 EU • Turkey • CIS  
+🎯 Products over hype. Systems over chaos.
 
 ---
 
-## 🛠 Core Skills
+## 🧩 Limventis Ecosystem
+
+### 🚀 Core Directions
+- **AI & Automation Platforms**
+- **Cloud-native SaaS**
+- **Observability & Monitoring**
+- **Computer Vision & Agro AI**
+- **E-commerce AI tools**
+
+### 🏗 What I Deliver
+- Architecture & system design  
+- High-load Go services  
+- Kubernetes infrastructure  
+- Prometheus + Grafana stacks  
+- AI inference pipelines  
+
+---
+
+## 🛠 Technology Stack
 
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=go,python,ts" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=go,python,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=go,fastapi,django" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux" />
@@ -42,29 +59,11 @@
 
 ---
 
-## 🧩 What I Build
-
-- High-load Go microservices  
-- Cloud-native platforms  
-- Kubernetes infrastructure  
-- Monitoring stacks (Prometheus + Grafana)  
-- AI & Computer Vision systems  
-- SaaS products for business  
-
----
-
 ## 🧠 Engineering Principles
 
 ```text
 • Cloud-native first
 • Observability is mandatory
 • Automation over manual work
-• Scalable by design
-• Production > demos
-📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
-🌐 Contact
-
-🌍 Website: https://limventis.com
-
-💼 Open for partnerships & architecture projects
+• Scale by design
+• Production > MVP
